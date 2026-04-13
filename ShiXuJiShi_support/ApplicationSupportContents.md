@@ -6,7 +6,7 @@
 
 如果您在使用时遇到问题，请发邮件与我们联系。
 
-**邮箱地址：fengyoumomo@163.com**
+邮箱地址：fengyoumomo@163.com
 
 
 
@@ -16,7 +16,7 @@ Thank you for using our app!
 
 If you encounter any issues while using the app, please contact us via email.
 
-**Email address：fengyoumomo@163.com**
+Email address：fengyoumomo@163.com
 
 
 
